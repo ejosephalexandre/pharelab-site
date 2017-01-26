@@ -1,0 +1,10 @@
+header .header-content .header-content-inner h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+
+foo{
+    font-weight: 500;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
